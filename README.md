@@ -1,2 +1,4 @@
-# Projects
- React basic projects projects
+# ReactBasics
+ A really basic React basic project
+
+(Random stuff)
